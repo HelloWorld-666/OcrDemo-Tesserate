@@ -1,5 +1,5 @@
 ﻿### 忽略特殊文件
-./leptonica-1.74.0
+leptonica-1.74.0
 
 ### Visual Studio 临时文件 ###
 *.sdf
