@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
     PIX *img;
     char *text;
 
-    if ((img = pixRead("F:\\Test\\OcrDemo\\Debug\\ss.png")) == NULL)
+    if ((img = pixRead("F:\\Test\\OcrDemo\\Debug\\ss.bmp")) == NULL)
         die("Error reading image\n");
 
     handle = TessBaseAPICreate();
