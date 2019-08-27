@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\adaptmap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\affine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\affinecompose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\arrayaccess.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bardecode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\baseline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bbuffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bilateral.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bilinear.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\binarize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\binexpand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\binreduce.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\blend.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bmf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bmpio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bmpiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bootnumgen1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bootnumgen2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bootnumgen3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\boxbasic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\boxfunc1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\boxfunc2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\boxfunc3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\boxfunc4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bytearray.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ccbord.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ccthin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\classapp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\colorcontent.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\coloring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\colormap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\colormorph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\colorquant1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\colorquant2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\colorseg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\colorspace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\compare.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\conncomp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\convertfiles.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\convolve.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\correlscore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dewarp1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dewarp2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dewarp3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dewarp4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dnabasic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dnafunc1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dnahash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dwacomb.2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dwacomblow.2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\edge.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\encoding.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\enhance.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fhmtauto.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fhmtgen.1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fhmtgenlow.1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\finditalic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\flipdetect.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fliphmtgen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fmorphauto.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fmorphgen.1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fmorphgenlow.1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fpix1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\fpix2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\gifio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\gifiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\gplot.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\graphics.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\graymorph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\grayquant.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\grayquantlow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\heap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jbclass.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jp2kheader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jp2kheaderstub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jp2kio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jp2kiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jpegio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jpegiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\kernel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\leptwin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\libversions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\maze.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\morph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\morphapp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\morphdwa.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\morphseq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\numabasic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\numafunc1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\numafunc2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pageseg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\paintcmap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\parseprotos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\partition.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pdfio1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pdfio1stub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pdfio2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pdfio2stub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pix1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pix2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pix3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pix4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pix5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixabasic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixacc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixafunc1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixafunc2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixalloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixarith.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixcomp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixconv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixlabel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pixtiling.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pngio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pngiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pnmio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pnmiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\projective.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\psio1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\psio1stub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\psio2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\psio2stub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ptabasic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ptafunc1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ptafunc2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ptra.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\quadtree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rank.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rbtree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\readbarcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\readfile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\recogbasic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\recogdid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\recogident.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\recogtrain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\regutils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ropiplow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\roplow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rotate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rotateam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rotateamlow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rotateorth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rotateshear.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\runlength.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\sarray1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\sarray2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\scale.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\scalelow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\seedfill.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\seedfilllow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\sel1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\sel2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\selgen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\shear.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\skew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\spixio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\stack.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\stringcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\strokes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\sudoku.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\textops.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\tiffio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\tiffiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\utils1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\utils2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\warper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\watershed.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\webpio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\webpiostub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\writefile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\zlibmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Test\OcrDemo\leptonica-1.74.0\src\zlibmemstub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\allheaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\alltypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\arrayaccess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bbuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bilateral.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bmf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bmfdata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\bmp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ccbord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\dewarp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\environ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\gplot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\heap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\imageio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\jbclass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\leptwin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\morph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\pix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\ptra.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\rbtree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\readbarcode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\recog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\regutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\stringcode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\sudoku.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Test\OcrDemo\leptonica-1.74.0\src\watershed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Test\OcrDemo\leptonica-1.74.0\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{98666401-E718-31DF-9A19-A5FC7693E762}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{184B6A18-6125-34E6-8B39-BF9872C4D079}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

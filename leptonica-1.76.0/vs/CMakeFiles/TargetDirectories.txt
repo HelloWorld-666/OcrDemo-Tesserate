@@ -1,0 +1,5 @@
+F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/INSTALL.dir
+F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/ALL_BUILD.dir
+F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/ZERO_CHECK.dir
+F:/Test/OcrDemo/leptonica-1.76.0/vs/src/CMakeFiles/leptonica.dir
+F:/Test/OcrDemo/leptonica-1.76.0/vs/src/CMakeFiles/INSTALL.dir

@@ -1,0 +1,392 @@
+Determining if files dlfcn.h exist failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_083eb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:11。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_083eb.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_083eb.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_083eb.dir\Debug\cmTC_083eb.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_083eb.dir\Debug\cmTC_083eb.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_083eb.dir\Debug\\" /Fd"cmTC_083eb.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_DLFCN_H.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_083eb.dir\Debug\\" /Fd"cmTC_083eb.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_DLFCN_H.c"
+  
+  HAVE_DLFCN_H.c
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_DLFCN_H.c(2): fatal error C1083: 无法打开包括文件: “dlfcn.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_083eb.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_083eb.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_083eb.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_DLFCN_H.c(2): fatal error C1083: 无法打开包括文件: “dlfcn.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_083eb.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.59
+
+Source:
+/* */
+#include <dlfcn.h>
+
+
+int main(void){return 0;}
+
+Determining if files strings.h exist failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_6e725.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:21。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_6e725.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_6e725.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_6e725.dir\Debug\cmTC_6e725.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_6e725.dir\Debug\cmTC_6e725.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6e725.dir\Debug\\" /Fd"cmTC_6e725.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_STRINGS_H.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6e725.dir\Debug\\" /Fd"cmTC_6e725.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_STRINGS_H.c"
+  
+  HAVE_STRINGS_H.c
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_STRINGS_H.c(2): fatal error C1083: 无法打开包括文件: “strings.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_6e725.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_6e725.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_6e725.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_STRINGS_H.c(2): fatal error C1083: 无法打开包括文件: “strings.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_6e725.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.58
+
+Source:
+/* */
+#include <strings.h>
+
+
+int main(void){return 0;}
+
+Determining if files unistd.h exist failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_acfb3.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:26。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_acfb3.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_acfb3.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_acfb3.dir\Debug\cmTC_acfb3.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_acfb3.dir\Debug\cmTC_acfb3.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_acfb3.dir\Debug\\" /Fd"cmTC_acfb3.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_acfb3.dir\Debug\\" /Fd"cmTC_acfb3.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c"
+  
+  HAVE_UNISTD_H.c
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_acfb3.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_acfb3.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_acfb3.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_acfb3.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.57
+
+Source:
+/* */
+#include <unistd.h>
+
+
+int main(void){return 0;}
+
+Determining if files openjpeg-2.0/openjpeg.h exist failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_a88cd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:27。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a88cd.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_a88cd.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_a88cd.dir\Debug\cmTC_a88cd.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_a88cd.dir\Debug\cmTC_a88cd.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a88cd.dir\Debug\\" /Fd"cmTC_a88cd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_0_OPENJPEG_H.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a88cd.dir\Debug\\" /Fd"cmTC_a88cd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_0_OPENJPEG_H.c"
+  
+  HAVE_OPENJPEG_2_0_OPENJPEG_H.c
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_0_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.0/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a88cd.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a88cd.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a88cd.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_0_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.0/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a88cd.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.58
+
+Source:
+/* */
+#include <openjpeg-2.0/openjpeg.h>
+
+
+int main(void){return 0;}
+
+Determining if files openjpeg-2.1/openjpeg.h exist failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_5c310.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:28。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_5c310.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_5c310.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_5c310.dir\Debug\cmTC_5c310.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_5c310.dir\Debug\cmTC_5c310.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_5c310.dir\Debug\\" /Fd"cmTC_5c310.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_1_OPENJPEG_H.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_5c310.dir\Debug\\" /Fd"cmTC_5c310.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_1_OPENJPEG_H.c"
+  
+  HAVE_OPENJPEG_2_1_OPENJPEG_H.c
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_1_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.1/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_5c310.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_5c310.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_5c310.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_1_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.1/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_5c310.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.58
+
+Source:
+/* */
+#include <openjpeg-2.1/openjpeg.h>
+
+
+int main(void){return 0;}
+
+Determining if files openjpeg-2.2/openjpeg.h exist failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_a19cd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:28。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a19cd.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_a19cd.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_a19cd.dir\Debug\cmTC_a19cd.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_a19cd.dir\Debug\cmTC_a19cd.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a19cd.dir\Debug\\" /Fd"cmTC_a19cd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_2_OPENJPEG_H.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a19cd.dir\Debug\\" /Fd"cmTC_a19cd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_2_OPENJPEG_H.c"
+  
+  HAVE_OPENJPEG_2_2_OPENJPEG_H.c
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_2_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.2/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a19cd.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a19cd.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a19cd.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_2_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.2/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_a19cd.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.59
+
+Source:
+/* */
+#include <openjpeg-2.2/openjpeg.h>
+
+
+int main(void){return 0;}
+
+Determining if files openjpeg-2.3/openjpeg.h exist failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_c3706.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:29。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_c3706.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_c3706.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_c3706.dir\Debug\cmTC_c3706.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_c3706.dir\Debug\cmTC_c3706.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_c3706.dir\Debug\\" /Fd"cmTC_c3706.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_3_OPENJPEG_H.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_c3706.dir\Debug\\" /Fd"cmTC_c3706.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_3_OPENJPEG_H.c"
+  
+  HAVE_OPENJPEG_2_3_OPENJPEG_H.c
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_3_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.3/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_c3706.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_c3706.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_c3706.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CheckIncludeFiles\HAVE_OPENJPEG_2_3_OPENJPEG_H.c(2): fatal error C1083: 无法打开包括文件: “openjpeg-2.3/openjpeg.h”: No such file or directory [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_c3706.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.60
+
+Source:
+/* */
+#include <openjpeg-2.3/openjpeg.h>
+
+
+int main(void){return 0;}
+
+Determining if the function fmemopen exists failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_d1ccf.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:31。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_d1ccf.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_d1ccf.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_d1ccf.dir\Debug\cmTC_d1ccf.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_d1ccf.dir\Debug\cmTC_d1ccf.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fmemopen /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_d1ccf.dir\Debug\\" /Fd"cmTC_d1ccf.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\CMake\share\cmake-3.11\Modules\CheckFunctionExists.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fmemopen /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_d1ccf.dir\Debug\\" /Fd"cmTC_d1ccf.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\CMake\share\cmake-3.11\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  D:\VS2010 镜像文件\VS2010\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\cmTC_d1ccf.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp/Debug/cmTC_d1ccf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp/Debug/cmTC_d1ccf.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d1ccf.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _fmemopen，该符号在函数 _main 中被引用 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_d1ccf.vcxproj]
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\cmTC_d1ccf.exe : fatal error LNK1120: 1 个无法解析的外部命令 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_d1ccf.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_d1ccf.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_d1ccf.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _fmemopen，该符号在函数 _main 中被引用 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_d1ccf.vcxproj]
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\cmTC_d1ccf.exe : fatal error LNK1120: 1 个无法解析的外部命令 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_d1ccf.vcxproj]
+
+    0 个警告
+    2 个错误
+
+已用时间 00:00:00.95
+
+
+Determining if the function fstatat exists failed with the following output:
+Change Dir: F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_8a500.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018-12-04 14:58:32。
+节点 1 上的项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_8a500.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_8a500.dir\Debug\”。
+  正在创建目录“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_8a500.dir\Debug\cmTC_8a500.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_8a500.dir\Debug\cmTC_8a500.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VS2010 镜像文件\VS2010\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fstatat /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_8a500.dir\Debug\\" /Fd"cmTC_8a500.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\CMake\share\cmake-3.11\Modules\CheckFunctionExists.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fstatat /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_8a500.dir\Debug\\" /Fd"cmTC_8a500.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\CMake\share\cmake-3.11\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  D:\VS2010 镜像文件\VS2010\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\cmTC_8a500.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp/Debug/cmTC_8a500.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/Test/OcrDemo/leptonica-1.76.0/vs/CMakeFiles/CMakeTmp/Debug/cmTC_8a500.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_8a500.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _fstatat，该符号在函数 _main 中被引用 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_8a500.vcxproj]
+F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\cmTC_8a500.exe : fatal error LNK1120: 1 个无法解析的外部命令 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_8a500.vcxproj]
+已完成生成项目“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_8a500.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_8a500.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _fstatat，该符号在函数 _main 中被引用 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_8a500.vcxproj]
+  F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\Debug\cmTC_8a500.exe : fatal error LNK1120: 1 个无法解析的外部命令 [F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\CMakeTmp\cmTC_8a500.vcxproj]
+
+    0 个警告
+    2 个错误
+
+已用时间 00:00:00.97
+
+

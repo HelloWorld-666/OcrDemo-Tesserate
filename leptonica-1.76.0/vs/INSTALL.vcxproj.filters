@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Test\OcrDemo\leptonica-1.76.0\vs\CMakeFiles\2ffb674fa26366025a4faa43a7385bee\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DF9B5933-058F-3B8C-AE0B-8409983FE47A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
